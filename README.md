@@ -24,7 +24,7 @@ My Summer Projects
 - Now the model is trained with 70% of data with both Independent and Dependent variables 
 - Evaluating the model with the test data set and formating them into list for understanding the output
 
-### Results of this project 
+### Result of this Project 
 - The predicted income range is converted to list and compared with the actual data
 - The comparing is done using **Classification Report** from Sklearn 
 - This provides an **efficiency of 85%**
